@@ -6,13 +6,13 @@ Reconstruction of architectural bas-relief motifs from single monocular photogra
 
 **Source:** Thanjavur (Tanjore) temple complex, Tamil Nadu, India.  
 **Output:** Depth map + colored point cloud + fabrication-ready STL mesh — from one image, no stereo rig, no photogrammetry setup.
-
+Mesh to download - https://drive.google.com/file/d/1fZr83p7B8rgEfQRhdh1Uou-JDxpl2Jww/view?usp=sharing
 ---
 
 <img width="987" height="898" alt="image" src="https://github.com/user-attachments/assets/6d24ce9c-a356-484c-be08-b1f3efb9b4ce" />
 
 *Reconstructed relief mesh. 2,217,623 vertices · 4,428,998 faces. Source: single photograph, Thanjavur, 2026.*
-Mesh to download - https://drive.google.com/file/d/1fZr83p7B8rgEfQRhdh1Uou-JDxpl2Jww/view?usp=sharing
+
 ---
 
 ## Research Context
