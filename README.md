@@ -1,4 +1,3 @@
-![params_diagram](https://github.com/user-attachments/assets/dce20f13-fdcb-44b6-87e2-7828ec81da5e)![params_diagram](https://github.com/user-attachments/assets/ec60efcd-cb90-4d12-8d89-c2be00306f9f)
 
 # Depth_Anything_3_Motifs
 
