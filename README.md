@@ -264,6 +264,7 @@ These are the critical values that make the pipeline work on stone bas-relief su
 
 ![params_diagram](https://github.com/user-attachments/assets/05a27b6f-06a1-4b37-9a99-9d9b65bae6a0)
 
+---
 
 ## Outputs Per Motif
 
